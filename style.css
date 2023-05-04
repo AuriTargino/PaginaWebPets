@@ -1,0 +1,156 @@
+
+*{
+    margin:0;
+   
+}
+body{
+    background: #302F3D;
+}
+.header{
+    display:flex;
+    margin: 20px;
+    align-items: center;
+    background: dimgray;
+    padding:20px;
+    border-radius: 15px;
+    gap:2rem;
+    min-width: 320px;
+    max-width: 1350px;
+}
+header div img{
+    margin-right:40px;
+}
+h1{
+    color: white;
+}
+.header div img{
+    height:100px;
+    border-radius:46%;
+    border: 2px solid greenyellow;
+}
+ul{
+    display:flex;
+    list-style-type: none;
+    gap: 3rem;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+a{
+    color: white;
+    font-size: 20px;
+    border-radius: 10px;
+    padding: 4px;
+    text-decoration: none;
+    
+}
+ .hover :hover{
+    background:burlywood;
+}
+.container{
+    display: flex;
+    
+}
+aside{
+    background: dimgray;
+    padding: 6%;
+    margin: 20px;
+    height: 140px;
+    border-radius: 15px;
+}
+main{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    background: dimgray;
+    margin:20px;
+    height:415px;
+    width: 80%;
+    border-radius:15px;
+
+}
+.containermain{
+   display: flex;
+   padding: 80px;
+   align-items: center;
+   
+}
+.maintosa{
+    width:96%;
+    padding:9px;
+}
+.aside, div img{
+  width: 250px;
+  height: 255px;
+  border-radius: 15px;
+
+}
+main h2{
+    color:rgba(202, 226, 135, 0.973);
+    margin:px;
+    text-align: center;
+    font-size:25px;
+
+}
+.imgtosa img{
+    margin: 3px;
+    width:200px;
+    height:150px;
+    margin-top:5px;
+    border: 1px solid greenyellow;
+}
+.div1tosa{
+    display: flex;
+    justify-content:space-around;
+}
+.fotomain ul li img{
+    width:200px; height: 170px;
+    
+}.fotomain ul {
+   align-items: center;
+}
+.containerfotosmain{
+    display: flex;
+    flex-direction: column;
+    gap:1rem;
+    margin-top: 5px;
+    align-items: center;
+}
+.containersobre{
+    display: flex;
+    align-items:center;
+}
+.containersobre{
+    color: white;
+    font-size: 20px;
+    gap: 2rem;
+}
+.containersobre div img{
+    width:400px;
+    height: 350px;
+}
+.divmaps  div img{
+    width:40px;
+    height: 40px;
+}
+.divmaps a{
+    color:rgba(202, 226, 135, 0.973);
+    text-decoration: none;
+}
+.divmaps{
+    display: flex;
+    align-items: center;
+}
+.containercontato a img{
+    width: 70px;
+    height: 70px;
+}
+.containercontato{
+    display: flex;
+    justify-content:space-evenly;
+    margin-top: 40px;
+}
+.containercontato a  p{
+    text-align:center;
+    font-size:;
+}
+
