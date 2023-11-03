@@ -41,4 +41,4 @@ do mesmo modelo  responsivo.
 
 Esse projeto está sob a licença MIT.
 ---
-Feito com ♥ por  Auri Targino : ( https://www.linkedin.com/feed/)
+Feito com ♥ por  Auri Targino : ( https://auritargino.github.io/PaginaWebPets/)
