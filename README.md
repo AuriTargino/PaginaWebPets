@@ -22,6 +22,8 @@ claro... estudando.
 
 <p align="center">
   <img alt="projeto Página Web Ração" src=".github/frentepagina.png" width="100%">
+  
+   <a href="https://auritargino.github.io/PaginaWebPets/">clique aqui e acesse o projeto </a>
 </p>
 
 ## 🚀 Tecnologias
